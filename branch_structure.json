@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/issue-890-feat-backend-campaign-verification-insurance",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/issue-890-feat-backend-campaign-verification-insurance": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/issue-890-feat-backend-campaign-verification-insurance",
+    "origin"
+  ]
+}
